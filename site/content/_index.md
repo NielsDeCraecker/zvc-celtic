@@ -1,9 +1,9 @@
 ---
-title: Celtic
-subtitle: In Celtic we trust
-image: /img/home-jumbotron.jpg
+title: ' '
+subtitle: ' '
+image: /img/celtic-fc-sign-up-eze-group.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Celtic
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
